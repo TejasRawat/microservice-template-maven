@@ -9,6 +9,10 @@
         <module>cms-main-app</module>
         <module>cms-service</module>
         <module>cms-dao</module>
+        <module>cms-http</module>
+        <module>cms-core</module>
+        <module>mediator-third-party-service-a</module>
+        <module>mediator-third-party-service-b</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
